@@ -1,4 +1,4 @@
-![Header](./image-github.png)
+<img src="./image-github.png" alt="Header" width="100%" height="200px" />
 
 # Hey there 👋
 
