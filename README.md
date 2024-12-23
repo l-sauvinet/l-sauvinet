@@ -21,7 +21,6 @@ Je suis un développeur full-stack passionné, toujours curieux d'apprendre et d
 
 - 🔵 **BAC STI2D**
 - 🟠 **BTS SIO** *(en cours)*
-- 🟠 **Formation React + Next.js** *(en cours)*
 
 ---
 
