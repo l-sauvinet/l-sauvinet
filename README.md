@@ -4,23 +4,23 @@
 
 ## 📝 About Me
 
-Je suis un développeur full-stack passionné, toujours curieux d'apprendre et de découvrir de nouvelles technologies :
-- 🔧 Actuellement développeur full-stack chez **Thomyris**, travaillant sur une plateforme SaaS innovante.
-- 📚 En constante formation pour améliorer mes compétences et explorer de nouveaux horizons technologiques.
+I am a passionate full-stack developer, always curious to learn and discover new technologies:
+- 🔧 Currently a full-stack developer at **Thomyris**, working on an innovative SaaS platform.
+- 📚 Continuously training to improve my skills and explore new technological horizons.
 
 ---
 
 ## 🌐 Social Network
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sauvinet-3607162a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_ucas_73/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sauvinet-3607162a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-4B4B4B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_ucas_73/)
 
 ---
 
 ### 💼 Achievements
 
-- 🔵 **BAC STI2D**
-- 🟠 **BTS SIO** *(en cours)*
+- 🟢 **BAC STI2D**
+- 🔵 **BTS SIO** *(in progress)*
 
 ---
 
