@@ -1,5 +1,3 @@
-<img src="./image-gitHub.gif" alt="Header" width="100%" height="400px" />
-
 # 👋 Hey there
 
 
