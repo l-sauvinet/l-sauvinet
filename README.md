@@ -37,17 +37,17 @@ I am a dedicated **full-stack developer** with a strong passion for building eff
 
 ## **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-606060?style=for-the-badge)](https://www.linkedin.com/in/lucas-sauvinet-3607162a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-606060?style=for-the-badge)](https://www.instagram.com/l_ucas_73/)
-[![Email](https://img.shields.io/badge/Email-606060?style=for-the-badge)](mailto:lucas.sauvinet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=for-the-badge)](https://www.linkedin.com/in/lucas-sauvinet-3607162a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-4B4B4B?style=for-the-badge)](https://www.instagram.com/l_ucas_73/)
+[![Email](https://img.shields.io/badge/Email-4B4B4B?style=for-the-badge)](mailto:lucas.sauvinet@gmail.com)
 
 
 ## **Statistics**
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-sauvinet&show_icons=true&theme=vue&hide_border=true&card_width=500) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-sauvinet&layout=compact&show_icons=true&theme=vue&hide_border=true&card_width=500) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-sauvinet&show_icons=true&theme=vue&hide_border=true&card_width=500&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-sauvinet&layout=compact&show_icons=true&theme=vue&hide_border=true&card_width=500&cache_seconds=1800) |
 |---|---|
 
-| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=l-sauvinet&theme=vue&margin-w=15&no-frame=true&width=1000) |
+| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=l-sauvinet&theme=vue&margin-w=15&no-frame=true&width=1000&cache_seconds=1800) |
 |---|
 
 
