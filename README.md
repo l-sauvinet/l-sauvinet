@@ -1,4 +1,4 @@
-<img src="./image-github.png" alt="Header" width="100%" height="200px" />
+<img src="./image-gitHub.gif" alt="Header" width="100%" height="200px" />
 
 # 👋 Hey there
 
