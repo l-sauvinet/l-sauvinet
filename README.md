@@ -1,53 +1,127 @@
-# 👋 Hey there
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=l-sauvinet&label=Profile%20views&color=0C967F&style=flat" alt="l-sauvinet" />
+</div>
 
+<div style="display: flex; justify-content: center; width: 100%;">
+  <h1 style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=K2D&weight=600&size=30&duration=5000&pause=1000&color=0C967F&center=true&vCenter=true&width=500&height=50&lines=Hey+there!;I'm+Lucas;Full-Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" style="display: block; margin: 0 auto;" />
+    </a>
+  </h1>
+</div>
 
-## **About Me**
+<div style="text-align: center; margin: 30px 0 40px 0; display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/lucas-sauvinet-3607162a4/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="32" height="32"/>
+    <span style="font-size: 16px;">LinkedIn</span>
+  </a>
+  <a href="https://www.instagram.com/l_ucas_73/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+    <img src="img/logoInsta.png" width="24" height="24" style="vertical-align: middle;"/>
+    <span style="font-size: 16px;">Instagram</span>
+  </a>
+</div>
 
-I am a dedicated **full-stack developer** with a strong passion for building efficient, scalable, and high-quality software solutions. My expertise spans both front-end and back-end development, with a focus on modern web technologies.
+<div style="max-width: 800px; margin: 0 auto 40px; padding: 0 20px; text-align: center; line-height: 1.6;">
+  <p style="margin-bottom: 20px; font-size: 20px; line-height: 1.7; max-width: 800px; margin-left: auto; margin-right: auto; text-align: center; font-weight: 400;">
+    I am a dedicated <strong style="color: #0C967F; font-weight: 600;">full-stack developer</strong> with a strong passion for building efficient, scalable, and high-quality software solutions. My expertise spans both front-end and back-end development, with a focus on modern web technologies.
+  </p>
+  
+  <div style="display: flex; flex-direction: column; gap: 12px; margin: 25px 0 30px;">
+    <div>• <strong>Full-Stack Developer at Thomyris</strong> – Contributing to the development of an innovative SaaS platform.</div>
+    <div>• <strong>Continuous Learning</strong> – Constantly refining my technical skills and staying up-to-date with industry best practices.</div>
+    <div>• <strong>Problem Solver</strong> – Driven by challenges, I enjoy designing and optimizing complex applications.</div>
+  </div>
 
-- **Full-Stack Developer at Thomyris** – Contributing to the development of an innovative SaaS platform.
-- **Continuous Learning** – Constantly refining my technical skills and staying up-to-date with industry best practices.
-- **Problem Solver** – Driven by challenges, I enjoy designing and optimizing complex applications.
+  <blockquote style="margin: 30px auto; padding: 15px 25px; border-left: 4px solid #0C967F; background: #0C967F; max-width: 600px; font-style: italic;">
+    "Code is like humor. When you have to explain it, it's bad."
+  </blockquote>
+</div>
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+<div style="max-width: 1000px; margin: 0 auto 60px; padding: 0 20px;">
+  <h2 style="text-align: center; color: #0C967F; margin-bottom: 40px; font-size: 32px; position: relative;">
+    Skills
+  </h2>
+  
+  <div style="background: #f9f9f7; border-radius: 12px; padding: 30px; margin-bottom: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <h3 style="color: #0C967F; margin-bottom: 25px; font-size: 24px; text-align: start; font-weight: 600;">Frontend</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 25px;">
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
+      </div>
+      <div style="text-align: start;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" style="background: white; border-radius: 50%;"/>
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+      </div>
+    </div>
+  </div>
 
+  <div style="background: #f9f9f7; border-radius: 12px; padding: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <h3 style="color: #0C967F; margin: 0 0 25px 0; font-size: 24px; text-align: start; font-weight: 600;">Backend</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 25px;">
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="60" height="60" alt="Symfony" />
+      </div>
+    </div>
+  </div>
+</div>
 
-## **Skills**
+<div style="max-width: 1000px; margin: 60px auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #0C967F; margin-bottom: 40px; font-size: 32px; position: relative;">
+    Tools & Environments
+  </h2>
 
-### Languages:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  <div style="background: #f9f9f7; border-radius: 12px; padding: 30px; margin-bottom: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <h3 style="color: #0C967F; margin-bottom: 25px; font-size: 24px; text-align: start; font-weight: 600;">Development Tools</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 25px;">
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" />
+      </div>
+    </div>
+  </div>
 
-### Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git Flow](https://img.shields.io/badge/Git%20Flow-181717?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <div style="background: #f9f9f7; border-radius: 12px; padding: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <h3 style="color: #0C967F; margin: 0 0 25px 0; font-size: 24px; text-align: start; font-weight: 600;">Development Environments</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 25px;">
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+      </div>
+      <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="60" height="60" alt="PhpStorm" />
+      </div>
+    </div>
+  </div>
+</div>
 
-### IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-
-
-## **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B4B4B?style=for-the-badge)](https://www.linkedin.com/in/lucas-sauvinet-3607162a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-4B4B4B?style=for-the-badge)](https://www.instagram.com/l_ucas_73/)
-[![Email](https://img.shields.io/badge/Email-4B4B4B?style=for-the-badge)](mailto:lucas.sauvinet@gmail.com)
-
-
-## **Statistics**
-
+<div style="max-width: 1000px; margin: 60px auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #0C967F; margin-bottom: 40px; font-size: 32px; position: relative;">
+    Statistics
+  </h2>
+  
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-sauvinet&show_icons=true&theme=vue&hide_border=true&card_width=500&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=l-sauvinet&layout=compact&show_icons=true&theme=vue&hide_border=true&card_width=500&cache_seconds=1800) |
 |---|---|
 
 | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=l-sauvinet&theme=vue&margin-w=15&no-frame=true&width=1000&cache_seconds=1800) |
 |---|
 
+</div>
 
