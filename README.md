@@ -1,11 +1,11 @@
-<div align="center">
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=l-sauvinet&label=Profile%20views&color=0C967F" alt="Profile views" />
-</div>
+<div>
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=l-sauvinet&label=Profile%20views&color=0C967F" alt="Profile views" />
+  </div>
    <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=K2D&weight=600&size=30&duration=5000&pause=1000&color=0C967F&center=true&vCenter=true&width=500&lines=Hey+there !+;I'm+Lucas;Full-Stack+Developer;Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=K2D&weight=600&size=30&duration=5000&pause=1000&color=0C967F&width=500&lines=Hey+there !+;I'm+Lucas;Full-Stack+Developer;Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
   </p>
-  <p style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <p style="display: flex; gap: 20px; margin-top: 20px;">
     <a href="https://www.linkedin.com/in/lucas-sauvinet-3607162a4/" target="_blank" title="LinkedIn">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
