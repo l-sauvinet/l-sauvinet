@@ -2,10 +2,10 @@
   <div align="right">
     <img src="https://komarev.com/ghpvc/?username=l-sauvinet&label=Profile%20views&color=0C967F" alt="Profile views" />
   </div>
-   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=K2D&weight=600&size=30&duration=5000&pause=1000&color=0C967F&width=500&lines=Hey+there !+;I'm+Lucas;Full-Stack+Developer;Welcome+to+my+GitHub+profile!;" alt="Typing SVG" />
-  </p>
-  <p style="display: flex; gap: 20px; margin-top: 20px;">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=K2D&weight=600&size=30&duration=5000&pause=1000&color=0C967F&width=500&height=50&lines=Hey+there!;I'm+Lucas;Full-Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" style="display: block; margin: 0 auto;" />
+    </a>
+  <p style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/lucas-sauvinet-3607162a4/" target="_blank" title="LinkedIn">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
@@ -87,10 +87,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-sauvinet&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-sauvinet&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-sauvinet&theme=vue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
